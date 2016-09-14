@@ -106,9 +106,9 @@
             this.labelShowMessage.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.labelShowMessage.Location = new System.Drawing.Point(6, 492);
             this.labelShowMessage.Name = "labelShowMessage";
-            this.labelShowMessage.Size = new System.Drawing.Size(45, 16);
+            this.labelShowMessage.Size = new System.Drawing.Size(128, 16);
             this.labelShowMessage.TabIndex = 7;
-            this.labelShowMessage.Text = "label2";
+            this.labelShowMessage.Text = "labelShowMessage";
             this.labelShowMessage.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // labelDraw
